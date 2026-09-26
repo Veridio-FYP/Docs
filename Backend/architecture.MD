@@ -175,6 +175,15 @@ Handles generation of operational reports and official documents.
 * Defaulter sheet generation
 * Domain-specific reporting formats
 
+## 2. External API's
+
+
+* MongoDB Atlas: Cloud-hosted NoSQL Database (External Cloud Service).
+
+* Cloud Redis (Redis Enterprise / Redis Cloud): In-memory cache and BullMQ's backend engine (External Cloud Service).
+
+* Google Gemini API (gemini-1.5-flash & text-embedding-004): External AI API that will be used for text embeddings aur policy document querying inside RAG module.
+
 ---
 
 ## 🏛️ Architecture Overview
