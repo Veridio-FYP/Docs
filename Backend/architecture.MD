@@ -175,7 +175,7 @@ Handles generation of operational reports and official documents.
 * Defaulter sheet generation
 * Domain-specific reporting formats
 
-## 2. External API's
+## 4. External API's
 
 
 * MongoDB Atlas: Cloud-hosted NoSQL Database (External Cloud Service).
